@@ -1,0 +1,4 @@
+video_url,question,ans1,ans2,ans3,ans4,ans5,ans6,ans7,ans8,ans9,ans10,ans11,ans12
+http://127.0.0.1:8500/api/vids/case_2851.mp4,Who wins the match?,Team A,TeamÂ B,It ends in a draw,,,,,,,,,
+http://127.0.0.1:8500/api/vids/case_2851.mp4,What color is the car?,Red,Blue,Green,Yellow,Black,,,,,,,
+http://127.0.0.1:8500/api/vids/case_2851.mp4,How many goals are scored?,0,1,2,3,4,5,,,,,,
